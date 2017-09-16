@@ -19,5 +19,6 @@ node
 > const r = require('./index.js').EPubReader;
 > const reader = new r()
 > r.readFolder()
+```
 
 4. Alternatively you can specify your own source and target folders to read by supplying paths as respective arguments to readFolder.
