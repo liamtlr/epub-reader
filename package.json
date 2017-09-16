@@ -1,0 +1,23 @@
+{
+  "name": "its-friday",
+  "version": "1.0.0",
+  "description": "tech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "epub": "^0.1.6",
+    "rimraf": "^2.6.2"
+  }
+}
